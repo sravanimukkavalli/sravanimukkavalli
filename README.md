@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Karthik Mukkavilli</h1>
+<h1 align="center">Hi 👋, I'm Sravani Mukkavalli</h1>
 <h3 align="center">A passionate web developer from Hyderabad, India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=msskarthik&label=Profile%20views&color=0e75b6&style=flat" alt="msskarthik" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sravanimukkavalli&label=Profile%20views&color=0e75b6&style=flat" alt="sravanimukkavalli" /> </p>
 
-- 📫 How to reach me **karthikmukkavilli009@gmail.com**
+- 📫 How to reach me **sravanimukkavalli99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
